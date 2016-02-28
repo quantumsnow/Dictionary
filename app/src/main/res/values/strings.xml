@@ -1,5 +1,20 @@
 <resources>
     <string name="app_name">Dictionary</string>
     <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="noun_up">Noun</string>
+    <string name="verb_up">Verb</string>
+    <string name="noun">noun</string>
+    <string name="verb">verb</string>
+    <string name="participle_past">past participle</string>
+    <string name="participle_present">present participle</string>
+    <string name="adjective_up">Adjective</string>
+    <string name="adjective">adjective</string>
+    <string name="adverb_up">Adverb</string>
+    <string name="adverb">adverb</string>
+    <string name="preposition">preposition</string>
+    <string name="conjunction">conjunction</string>
+    <string name="pronoun">pronoun</string>
+    <string name="prefix">prefix</string>
+    <string name="suffix">suffix</string>
+    <string name="hint_search">Search dictionary</string>
 </resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wörterbuch</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="adjective">Adjektiv</string>
+    <string name="adjective_up">Adjektiv</string>
+    <string name="adverb">Adverb</string>
+    <string name="adverb_up">Adverb</string>
+    <string name="conjunction">Bindewort</string>
+    <string name="noun">Nomen</string>
+    <string name="noun_up">Nomen</string>
+    <string name="participle_past">Partizip Perfekt</string>
+    <string name="participle_present">Partizip Präsens</string>
+    <string name="prefix">Präfix</string>
+    <string name="preposition">Präposition</string>
+    <string name="pronoun">Pronomen</string>
+    <string name="suffix">Suffix</string>
+    <string name="verb">Verb</string>
+    <string name="verb_up">Verb</string>
+    <string name="hint_search">Suche im Wörterbuch</string>
+</resources>
