@@ -8,7 +8,6 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 import com.flowsnake.dictionary.R;
 
@@ -58,7 +57,7 @@ public class ResultsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.fragment_results, container, false);
 
         // TODO: get result
-        ((TextView) rootView.findViewById(R.id.textView)).setText(term);
+        //((TextView) rootView.findViewById(R.id.textView)).setText(term);
 
         return rootView;
     }
